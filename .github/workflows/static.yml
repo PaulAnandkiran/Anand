@@ -13,7 +13,7 @@
             text-align: center;
             height: 100vh;
             margin: 0;
-            background-color: blue;
+            background-color: black;
             font-family: 'Arial', sans-serif;
         }
         h1 {
@@ -23,7 +23,7 @@
         }
         p {
             font-size: 2.5rem;
-            color: rgba(255, 0, 0, 0.5);
+            color: white;
         }
         img {
             max-width: 90%;
