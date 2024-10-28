@@ -13,17 +13,18 @@
             text-align: center;
             height: 100vh;
             margin: 0;
-            background-color: lightblue;
+            background-color: Yellow;
             color: #006400;
             font-family: 'Arial', sans-serif;
         }
         h1 {
             font-size: 5rem;
-            font-color: Red;
+            color: #FF5733;
             margin-bottom: 1rem;
         }
         p {
             font-size: 2.5rem;
+            color: rgba(255, 0, 0, 0.5);
         }
         img {
             max-width: 90%;
