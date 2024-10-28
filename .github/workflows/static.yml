@@ -13,12 +13,12 @@
             text-align: center;
             height: 100vh;
             margin: 0;
-            background-color: White;
+            background-color: white;
             font-family: 'Arial', sans-serif;
         }
         h1 {
             font-size: 5rem;
-            color: Black;
+            color: black;
             margin-bottom: 1rem;
         }
         p {
