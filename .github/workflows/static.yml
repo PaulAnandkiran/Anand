@@ -13,18 +13,18 @@
             text-align: center;
             height: 100vh;
             margin: 0;
-            background-color: Yellow;
+            background-color: Purple;
             color: #006400;
             font-family: 'Arial', sans-serif;
         }
         h1 {
             font-size: 5rem;
-            color: #FF5733;
+            color: blue;
             margin-bottom: 1rem;
         }
         p {
             font-size: 2.5rem;
-            color: rgba(255, 0, 0, 0.5);
+            color: hsl(120, 100%, 25%);
         }
         img {
             max-width: 90%;
@@ -37,7 +37,7 @@
 </head>
 <body>
     <h1>Greetings to all</h1>
-    <p>Praise the Lord 🙏, everyone! To those registered for Bible study 📕, please arrive at the church by 6:30 AM 💒
+    <p>Praise the Lord 🙏, everyone! To those who registered for Bible study 📕, please arrive at the church by 6:30 AM 💒
 ప్రైసె ది లార్డ్ 🙏 బైబిల్ అధ్యయనం కోసం నమోదు చేసుకున్న వారు 👨‍👦‍👦, దయచేసి ఉదయం 6:30 గంటలకు చర్చికి చేరుకోండి 💒
 For more information and prayer request contact 📲+91 9640722881 Pastor M. Noel Peter</p>
     <img src="images.jfif" alt="Church Img">
