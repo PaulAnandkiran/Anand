@@ -18,12 +18,12 @@
         }
         h1 {
             font-size: 5rem;
-            color: #FFD700;
+            color: gold;
             margin-bottom: 1rem;
         }
         p {
             font-size: 2.5rem;
-            color: rgb(255, 215, 0);
+            color: gold;
         }
         img {
             max-width: 90%;
