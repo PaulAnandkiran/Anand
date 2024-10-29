@@ -13,7 +13,7 @@
             text-align: center;
             height: 100vh;
             margin: 0;
-            background-color: url('https://github.com/PaulAnandkiran/Anand/blob/main/.github/workflows/images.jfif?raw=true'); background-size: cover; background-repeat;
+            background-color: purple;
             font-family: 'Arial', sans-serif;
         }
         h1 {
