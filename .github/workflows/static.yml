@@ -17,12 +17,12 @@
             font-family: 'Arial', sans-serif;
         }
         h1 {
-            font-size: 5rem;
+            font-size: 3rem;
             color: gold;
             margin-bottom: 1rem;
         }
         p {
-            font-size: 2.5rem;
+            font-size: 1.5rem;
             color: gold;
         }
         img {
